@@ -3,5 +3,5 @@
   "name": "Compteur de points de vie",
   "type": "ui",
   "entry": "https://localhost:5173/index.html",
-  "version": "0.0.1"
+  "manifest_version": "0.0.1"
 }
