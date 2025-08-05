@@ -1,0 +1,7 @@
+{
+  "id": "compteur-pv",
+  "name": "Compteur de points de vie",
+  "type": "ui",
+  "entry": "http://localhost:5173/index.html",
+  "version": "0.0.1"
+}
