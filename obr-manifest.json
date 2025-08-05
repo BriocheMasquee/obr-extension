@@ -1,5 +1,4 @@
 {
-  "id": "compteur-pv",
   "name": "Compteur de points de vie",
   "type": "ui",
   "entry": "https://localhost:5173/index.html",
