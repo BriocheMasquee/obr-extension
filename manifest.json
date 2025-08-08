@@ -1,7 +1,6 @@
 {
   "name": "exbru",
   "version": "1.0.0",
-  "type": "module",
   "manifest_version": 1,
   "action": {
     "title": "Hello, World!",
