@@ -1,0 +1,14 @@
+{
+  "id": "exbru",
+  "name": "exbru",
+  "version": "1.0.0",
+  "type": "module",
+  "manifest_version": 1,
+  "action": {
+    "title": "Hello, World!",
+    "icon": "/icon.svg",
+    "popover": "/popover.html",
+    "height": 600,
+    "width": 400
+  }
+}
