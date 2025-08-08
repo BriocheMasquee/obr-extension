@@ -5,7 +5,7 @@
   "action": {
     "title": "Hello, World!",
     "icon": "/icon.svg",
-    "popover": "popover.html",
+    "popover": "/",
     "height": 600,
     "width": 400
   }
